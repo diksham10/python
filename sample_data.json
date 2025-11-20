@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "age": 25,
+        "skills": [
+            "Python",
+            "SQL"
+        ],
+        "active": true
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "age": 30,
+        "skills": [
+            "JavaScript",
+            "React"
+        ],
+        "active": false
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "age": 28,
+        "skills": [
+            "Java",
+            "Spring"
+        ],
+        "active": true
+    },
+    {
+        "id": 4,
+        "name": "Diksham",
+        "age": 22,
+        "skills": [
+            "C",
+            "Python"
+        ],
+        "active": true
+    }
+]

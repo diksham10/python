@@ -40,4 +40,8 @@
 # st=sorted(student)
 # print(st)
 
+# #Dicionary compreheension
+# dic={x: ("even" if x%2==0 else "odd") for x in range(30)}
+# print(dic)
+
     

@@ -17,6 +17,7 @@ test=[1,2,3,4,5,6,7,8,9]
 test1=["apple"]
 test2=["apple","ball","cat","dog"]
 
+# slicing and copying:
 # msg=test2[:]
 # print(msg)
 # # del msg[1]
@@ -36,7 +37,7 @@ test2=["apple","ball","cat","dog"]
 # msg=test2[:]
 # print(msg)
 # print(len(msg))
-# test2.insert(1,test1) #nested list 
+# test2.insert(1,test1) #nested list ``
 # print(test2)
 
 

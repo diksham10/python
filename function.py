@@ -60,6 +60,22 @@
 
 # names(name="kisham",age=16,sex="male")
 
+# # lambda function : anonomus function
+# cube= lambda x:x**3
+# print(cube(3))
+
+# #map function : it takes a function and iterable as an argument and applies the function to each item in the iterable
+# numbers=[1,2,3,4,5]
+# square=  list(map( lambda x: x**2,numbers))
+#using lambda fuctuion to generaate alist of numbers  that are square of only the odd numbers 
+# #usign the iterators map and filter:
+# x=list(range(11))
+# odd= filter(lambda x:x%2!=0,x)
+# result= map(lambda x:x**3,odd)
+# for i in result:
+#     print(i)
+
+
 
 
         
