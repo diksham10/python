@@ -45,7 +45,7 @@
 # remainder(2,4)
 # poweer(2,4)
 
-#comparision:
+# # comparision:
 # a=20
 # b=30
 # if (a>b):
@@ -93,7 +93,14 @@
 #     if num==4:
 #         continue
 #     print (name)
-    # if num==2:
-    #     break
-#else can also be used with the while loop to check whether the loop has been completed normally or break was introduced
-
+#     if num==2:
+#         break
+# # else can also be used with the while loop to check whether the loop has been completed normally or break was introduced
+# x=int(input("Enter a number:"))
+# for i in range (1,3):
+#     if i==x:
+#         print("bomb")
+#     else:
+#         pass
+# else:
+#     print("you entered not a number in range")

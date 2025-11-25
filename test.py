@@ -69,4 +69,12 @@
 # except ValueError:
 #     print ("invalid error")
 # finally:
-#     print("code done")     
+#     print("code done")
+# x=3
+# if x==3:
+#     def squar(num):
+#         print(num**2)
+# squar(2)        
+
+x :int
+print((x))

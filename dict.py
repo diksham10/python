@@ -22,16 +22,18 @@
 # print(student)
 
 # #nested dictionaries
-# student={
-#     "ayush":{
-#         "age":22,
-#         "city":"banepa"
-#     },
-#     "rochak":{
-#         "age":23,
-#         "city":"bhaktapur"
-#     }
-# }
+student={
+    "ayush":{
+        "age":22,
+        "city":"banepa"
+    },
+    "rochak":{
+        "age":23,
+        "city":"bhaktapur"
+    }
+}
+x=student["ayush"]["age"]
+print(x)
 # for key,values in student.items():
 #     for a,b in values.items():
 #         print (b)

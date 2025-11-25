@@ -74,8 +74,20 @@
 # result= map(lambda x:x**3,odd)
 # for i in result:
 #     print(i)
+# from datetime import datetime
+# now=datetime.now()
+# print(now)
 
+# this is not how its done in pyhton#polymorphism in python
+# def jod(x,y,z):
+#     print(x+y+z)
+# def jod(x,y):
+#     print(x+y)
+# def jod(x):
+#     x+=1
+#     print(x)
 
-
-
+# jod(1,2,3)
+# jod(1,2)
+# jod(1)
         
