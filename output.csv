@@ -1,6 +1,6 @@
-Name,Age,sex
-kisham,12,m
-diksham,13,m
-kera,12,f
-
-kaluwa,12,m
+name,age,sex,email,city,occupation
+Alice,28,Female,alice@example.com,New York,Software Engineer
+Bob,34,Male,bob@example.com,Los Angeles,Data Analyst
+Charlie,22,Male,charlie@example.com,Chicago,Graphic Designer
+Diana,30,Female,diana@example.com,San Francisco,Product Manager
+Ethan,26,Male,ethan@example.com,Seattle,Marketing Specialist

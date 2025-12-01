@@ -7,12 +7,14 @@
 # print(factorial(9)) 
 
 #defining sum upto a given number without recursion with default parameter:
-# def add(x=9):
-#     result=0
-#     for i in range(x+1):
-#         result=result+i
-#     print(result)
-# add()
+# num=int(input("enter a number :"))
+def add(x:int):
+    print(x)
+    # result=0
+    # for i in range(x+1):
+    #     result=result+i
+    # return result
+add("hi")
 
 # #Keyword arguement : for postitonal order matters but for keyword it doesnot matter can be to neglet the order:
 # def greet(name,age):
